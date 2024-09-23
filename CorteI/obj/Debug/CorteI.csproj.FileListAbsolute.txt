@@ -1,0 +1,10 @@
+C:\Users\elias\source\repos\CorteI\CorteI\bin\Debug\CorteI.exe.config
+C:\Users\elias\source\repos\CorteI\CorteI\bin\Debug\CorteI.exe
+C:\Users\elias\source\repos\CorteI\CorteI\bin\Debug\CorteI.pdb
+C:\Users\elias\source\repos\CorteI\CorteI\obj\Debug\CorteI.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\CorteI\CorteI\obj\Debug\CorteI.Form1.resources
+C:\Users\elias\source\repos\CorteI\CorteI\obj\Debug\CorteI.Properties.Resources.resources
+C:\Users\elias\source\repos\CorteI\CorteI\obj\Debug\CorteI.csproj.GenerateResource.cache
+C:\Users\elias\source\repos\CorteI\CorteI\obj\Debug\CorteI.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\CorteI\CorteI\obj\Debug\CorteI.exe
+C:\Users\elias\source\repos\CorteI\CorteI\obj\Debug\CorteI.pdb
